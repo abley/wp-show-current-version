@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Show Current Version ===
 Contributors: dan.baley
 Tags: admin
 Requires at least: 3.5
